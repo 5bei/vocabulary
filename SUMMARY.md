@@ -1,5 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
-	[动物](animals.md)
+* [简介](README.md)
+*	[动物](animals.md)
 
