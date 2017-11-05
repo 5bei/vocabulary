@@ -16,7 +16,7 @@
 	</tr>
 
 	<tr>
-		<td cols="2">幼兽</td>
+		<td colspan="2">幼兽</td>
 	</tr>
 
 	<tr>
